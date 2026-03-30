@@ -1,9 +1,9 @@
 #!/bin/bash
 # Script 1: System Identity Report
-# Author: Shabi | Course: Open Source Software
+# Author: Swastik | Course: Open Source Software
 
 # --- Variables ---
-STUDENT_NAME="Shabi"
+STUDENT_NAME="Swastik"
 SOFTWARE_CHOICE="Python"
 
 # --- System info ---
@@ -11,7 +11,7 @@ KERNEL=$(uname -r)
 USER_NAME=$(whoami)
 USER_HOME=$HOME
 UPTIME=$(uptime -p)
-DISTRO=$(grep "PRETTY_NAME" /etc/os-release | cut -d'=' -f2 | tr -d '"')
+DISTRO=$(grep "HANDSOME_NAME" /etc/os-release | cut -d'=' -f2 | tr -d '"')
 DATE_TIME=$(date)
 
 # --- Display ---
