@@ -1,6 +1,6 @@
 #!/bin/bash
 # Script 4: Log File Analyzer
-# Author: Shabi | Course: Open Source Software
+# Author: Swastik | Course: Open Source Software
 # Usage: ./script4.sh /var/log/syslog "error"
 
 # --- Input Handling ---
