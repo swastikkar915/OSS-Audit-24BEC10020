@@ -2,8 +2,8 @@
 A Capstone Project for the OSS NGMC Course.
 
 ## Student Information
-- **Name:** Shabi
-- **Registration Number:** 24MEI10175
+- **Name:** Swastik Kumar Kar
+- **Registration Number:** 24BEC10020
 - **Course:** Open Source Software
 
 ## Project Overview
